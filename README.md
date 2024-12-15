@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFDD2E&vCenter=true&random=false&width=700&lines=React+Developer+%F0%9F%98%8A;Full+Stack+developer+when+needed+%F0%9F%98%8E;5%2B+years+of+coding+experience+%F0%9F%92%BB;Nice+to+meet+you!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFDD2E&vCenter=true&random=false&width=700&lines=React+Developer+%F0%9F%98%8A;Full+Stack+developer+when+needed+%F0%9F%98%8E;6%2B+years+of+coding+experience+%F0%9F%92%BB;Nice+to+meet+you!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
